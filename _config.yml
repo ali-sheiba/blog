@@ -18,8 +18,10 @@ author: Ali Al-Sheiba
 
 description: >- # this means to ignore newlines until "baseurl:"
   Rails and React Developer <3.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+baseurl: "/blog"
+url: "ali-sheiba.github.io"
+
 # twitter_username: abora3d
 github_username:  ali-sheiba
 
