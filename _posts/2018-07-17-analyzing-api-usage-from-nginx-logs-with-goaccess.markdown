@@ -5,7 +5,7 @@ date:   2018-07-17 12:51:23 +0400
 categories: devops rails apis
 ---
 
-In the old days, I used to rely on cPanle Statistics or Google Analytics to get statistics like most visited pages, unique visitors, hits, client operating systems etc…, that works fine for web pages and blogs.
+In the old days, I used to rely on cPanel Statistics or Google Analytics to get statistics like most visited pages, unique visitors, hits, client operating systems etc…, that works fine for web pages and blogs.
 
 But now days usually I work on backend APIs that been consumed by mobile apps or static frontend apps, and using 3rd party monitoring service is not an option for all the projects, so we need to find an alternative.
 
