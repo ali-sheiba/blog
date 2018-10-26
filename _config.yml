@@ -22,6 +22,12 @@ plugins:
 
 google_analytics: UA-122480457-1
 
+jekyll_admin:
+  hidden_links:
+    - staticfiles
+    - datafiles
+    - configuration
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
