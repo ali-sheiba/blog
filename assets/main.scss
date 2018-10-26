@@ -1,9 +1,14 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
-
 @import "minima";
 
 pre.highlight code {
   font-size: 14px;
+}
+
+.wrapper {
+  max-width: calc(1200px - (30px * 2));
+}
+
+p > img {
+  margin: auto;
+  display: block;
 }
